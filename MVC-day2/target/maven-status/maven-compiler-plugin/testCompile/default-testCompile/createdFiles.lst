@@ -1,0 +1,6 @@
+ro\teamnet\zth\api\em\EntitiyManagerImplTest.class
+ro\teamnet\zth\api\em\EntityUtilsTest.class
+ro\teamnet\zth\appl\LocationDaoTest.class
+ro\teamnet\zth\appl\EmployeeDaoTest.class
+ro\teamnet\zth\api\database\DBManagerTest.class
+ro\teamnet\zth\appl\JobDaoTest.class
